@@ -18,9 +18,18 @@ retail dataset.
 ## Tools Used
 Microsoft Excel — pivot tables, charts, dashboard layout
 
+## Skills Demonstrated
+Pivot tables, multi-series charting, date reconstruction and formatting, dashboard 
+layout design, executive summary writing
+
 ## Files
 sales_dashboard.xlsx — cleaned data, pivot tables, and dashboard
 
 ## Data Source
 Sample Superstore Dataset via Kaggle
 kaggle.com/datasets/vivek468/superstore-dataset-final
+
+## Note
+Findings in this dashboard were independently cross-verified against SQL queries 
+run on the same dataset in a separate project (see: [sql-business-queries repo link]), 
+confirming consistent results across both tools.
