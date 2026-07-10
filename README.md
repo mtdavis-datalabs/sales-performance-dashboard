@@ -1,4 +1,4 @@
-## Sales Performance Dashboard
+# Sales Performance Dashboard
 
 
 ## Overview
@@ -31,5 +31,5 @@ kaggle.com/datasets/vivek468/superstore-dataset-final
 
 ## Note
 Findings in this dashboard were independently cross-verified against SQL queries 
-run on the same dataset in a separate project (see: [sql-business-queries repo link]), 
+run on the same dataset in a separate project (see: [[sql-business-queries repo link](https://github.com/mtdavis-datalabs/SQL_Business_Queries_Project.git)]), 
 confirming consistent results across both tools.
