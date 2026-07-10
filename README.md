@@ -6,6 +6,8 @@ An Excel dashboard analysing 9,994 US retail transactions to identify revenue
 trends, regional performance, and product profitability, built on the Superstore 
 retail dataset.
 
+<img width="1296" height="829" alt="Image" src="https://github.com/user-attachments/assets/96b2da55-d5f9-4a0f-8f68-6418ee0c4854" />
+
 ## Key Findings
 - The West region leads on total sales ($725,457.82)
 - Technology leads on profit margin (17.4%) despite Furniture generating comparable 
